@@ -1,2 +1,3 @@
-# HereWeGo
-2nd time is a charm
+Hello Justin, welcome to my readme file
+
+Isn't it just wonderful.
